@@ -1,6 +1,4 @@
-package com.sparta.springweek01.calculator;
-
-import static org.junit.jupiter.api.Assertions.*;
+package com.sparta.springmvc.calculator;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;

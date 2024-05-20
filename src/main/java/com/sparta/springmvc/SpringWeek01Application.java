@@ -1,4 +1,4 @@
-package com.sparta.springweek01;
+package com.sparta.springmvc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
